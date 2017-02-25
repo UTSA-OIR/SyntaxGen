@@ -69,11 +69,11 @@ int main () {
   string att_label;
   string id_quote;
   string att_quote;
-  string spss="//Check for latest file \n";
-  string sas="//comments here \n";
-  string r="//comments here\n";
+  string spss="//Check for latest file and submit updates @ https://github.com/UTSA-OIR/SyntaxGen \n";
+  string sas="//Check for latest file @ https://github.com/UTSA-OIR/SyntaxGen \n \n";
+  string r="//Check for latest file @ https://github.com/UTSA-OIR/SyntaxGen \n\n";
   string r_dataframe;
-  string sql="--comments here\n\nCase\n";
+  string sql="//Check for latest file @ https://github.com/UTSA-OIR/SyntaxGen \n\n\n\nCase\n";
   string outputdirectory="";
   string inputfilename="";
   string outputfilename;
