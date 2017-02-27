@@ -40,6 +40,7 @@ string outputfiles(string outfile,string output, string type)
     {
       return "\n"+outfile+" already exists, file not written.\n";
       
+	  //try this in python instead
       
     }else{
 
